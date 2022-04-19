@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = "SpreoUIPod"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "Spreo UI Framework"
  
-  s.description      = ""
+  s.description      = "Spreo UI Module Framework"
  
   s.homepage         = "https://github.com/SpreoLLC/UiModulePod"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
