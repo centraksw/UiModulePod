@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SpreoUIPod"
-  s.version          = "1.0.2"
+  s.version          = "1.0.3"
   s.summary          = "Spreo UI Framework"
  
   s.description      = "Spreo UI Module Framework"
@@ -14,13 +14,13 @@ Pod::Spec.new do |s|
   
   s.vendored_frameworks = "Classes/IosUIModule.framework"
 
-  s.exclude_files = "Classes/IosUIModuleBundle.bundle/Info.plist"
+  s.exclude_files = "Classes/IosUIModule.bundle/Info.plist"
 
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   s.resource_bundles = {
-    'IosUIModule' => ['Classes/IosUIModuleBundle.bundle/**']
+    'IosUIModule' => ['Classes/IosUIModule.bundle/**']
   }
 
   s.dependency 'SpreoPod', '2.44'
