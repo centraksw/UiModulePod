@@ -1,24 +1,47 @@
-
-# ================================ #
-#  DATE: 19 April, 2022   
-# ================================ #
+#### ================================
+### DATE: 19 April, 2022
+### Framework VERSION: 1.0.3
+### ================================ #
 
 # Installation
-	* Framework installing via cocoapods
-    * Run command <pod 'SpreoUIPod'>
 
----------------------------------------------------------------------------------------------------------
-# Framework VERSION: 1.0.3
-____________________________________
+## Cocoapods
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website.To integrate SpreoUIModule into your Xcode project using CocoaPods, specify it in your Podfile:
 
-    * Xcode Versions: Xcode 11.x
+```ruby
+pod 'SpreoUIModule'
+```
 
----------------------------------------------------------------------------------------------------------
-# BUILD REQUIREMENTS:
-____________________________________
+# Usage
 
-    * iOS 11.0 SDK or later
+1. Import `IosUIModule`
 
-`---------------------------------------------------------------------------------------------------
-    Copyright (C) 2022 Spreo LLC. All rights reserved.
- ---------------------------------------------------------------------------------------------------`
+```swift
+import IosUIModule
+```
+
+2. Get the viewcontroller
+
+```swift
+let vc = IosUIModuleKit.initWithApiKey("YOUR_SPREO_API_KEY")
+```
+
+3. Present or push viewcontroller
+
+```swift
+navigationController?.pushViewController(vc, animated: true)
+present(vc, animated: true)
+```
+
+
+
+# Build requirements:
+- Xcode Versions: Xcode 11.x
+- iOS 11.0 SDK or later
+
+#Licence
+
+SpreoUIModule is available under the MIT license. See the LICENSE file for more info
+
+Copyright (C) 2022 Spreo LLC. All rights reserved.
+
