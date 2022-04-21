@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 19 April, 2022
-### Framework VERSION: 1.0.3
+### DATE: 21 April, 2022
+### Framework VERSION: 1.0.4
 ### ================================ #
 
 # Installation
@@ -39,7 +39,7 @@ present(vc, animated: true)
 - Xcode Versions: Xcode 11.x
 - iOS 11.0 SDK or later
 
-#Licence
+# Licence
 
 SpreoUIModule is available under the MIT license. See the LICENSE file for more info
 
