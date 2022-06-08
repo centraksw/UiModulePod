@@ -45,7 +45,7 @@
 - (void)addToView:(UIView *)parentView yCoord:(CGFloat)yCoord;
 - (void)setUpPickerViewForMapVC:(IDDualMapViewController*)mapVC;
 
-- (void)updateWithFloorId:(NSInteger)floorId;
+- (void)updateWithFloorId:(NSInteger)floorId force:(BOOL)force;
 - (void)updateViewForNavigationToFloor:(NSInteger)destinationFloorId fromFloor:(NSInteger)startFloorId;
 - (void)updateView;
 - (void)stopNavigation;
