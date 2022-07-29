@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)presentPoi:(IDPoi *)aPoi;
 - (void)removeFavorites:(IDPoi *)aPoi;
 -(void)navigate:(IDPoi *)apoi;
+-(void)poiDetailsViewClosed;
+
 @end
 @interface PoiDetailsViewController : UIViewController
 @property (strong, nonatomic) IBOutlet UIScrollView *scrollView;

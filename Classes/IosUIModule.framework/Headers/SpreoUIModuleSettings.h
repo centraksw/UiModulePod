@@ -16,7 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 // openSearchOnStart
 //
 /*!
- * The parameter can be changed to open search with specific category on module start . NO is default
+ * The parameter can be changed to open search with specific category on module start . NO is default.
+ * Doesn't work if  showClosestPoiDetails = YES and specific category empty or incorrect
  * \code    [SpreoUIModuleSettings sharedInstance].openSearchOnStart = YES];
  */
 @property (nonatomic, assign) BOOL openSearchOnStart;
@@ -35,6 +36,7 @@ NS_ASSUME_NONNULL_BEGIN
 //
 /*!
  * The parameter can be used  to present closest poi from specific category on start. NO is default
+ * Doesn't work if  openSearchOnStart = YES and specific category empty or incorrect
  * \code    [SpreoUIModuleSettings sharedInstance].showClosestPoiDetails = YES];
  */
 @property (nonatomic, assign) BOOL showClosestPoiDetails;
