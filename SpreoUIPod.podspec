@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SpreoUIPod"
-  s.version          = "1.1.6"
+  s.version          = "1.1.7"
   s.summary          = "Spreo UI Framework"
  
   s.description      = "Spreo UI Module Framework"
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     'IosUIModule' => ['Classes/IosUIModule.bundle/**']
   }
 
-  s.dependency 'SpreoPod', '2.48'
+  s.dependency 'SpreoPod', '2.49'
   s.requires_arc          = true
   
 end
