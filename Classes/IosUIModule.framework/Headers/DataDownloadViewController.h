@@ -7,10 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "HomeViewController.h"
+
 
 @interface DataDownloadViewController : UIViewController
 
-+ (DataDownloadViewController *)startWithApiKey:(NSString *)apiKey;
++ (UINavigationController *)startWithApiKey:(NSString *)apiKey;
 
 @end

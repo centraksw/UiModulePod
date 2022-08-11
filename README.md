@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 8 August, 2022
-### Framework VERSION: 1.1.7
+### DATE: 11 August, 2022
+### Framework VERSION: 1.1.8
 ### ================================ #
 
 # Installation
@@ -24,14 +24,14 @@ import IosUIModule
 
   2.1 The parameter can be changed to open search with specific category on module start. Doesn't work if showClosestPoiDetails = YES and specific category empty or incorrect .
 ```swift
-      [SpreoUIModuleSettings sharedInstance].openSearchOnStart = true
-      [SpreoUIModuleSettings sharedInstance].specificCategory = "Entrance"
+      SpreoUIModuleSettings.sharedInstance().openSearchOnStart = true
+      SpreoUIModuleSettings.sharedInstance().specificCategory = "Entrance"
 ```
       
   2.2 The parameter can be used  to present closest poi from specific category on start. Doesn't work if openSearchOnStart = YES and specific category empty or incorrect.
 ```swift
-    [SpreoUIModuleSettings sharedInstance].showClosestPoiDetails = true
-    [SpreoUIModuleSettings sharedInstance].specificCategory = "Entrance"
+    SpreoUIModuleSettings.sharedInstance().showClosestPoiDetails = true
+    SpreoUIModuleSettings.sharedInstance().specificCategory = "Entrance"
 ```
 
 3. Get the viewcontroller
@@ -40,11 +40,11 @@ import IosUIModule
 let vc = IosUIModuleKit.initWithApiKey("YOUR_SPREO_API_KEY")
 ```
 
-4. Present or push viewcontroller
+4. Add as child view controller
 
 ```swift
-navigationController?.pushViewController(vc, animated: true)
-present(vc, animated: true)
+    addChild(vc)
+    view.addSubview(vc.view)
 ```
 
 
