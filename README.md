@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 11 August, 2022
-### Framework VERSION: 1.1.8
+### DATE: 22 August, 2022
+### Framework VERSION: 1.1.9
 ### ================================ #
 
 # Installation
