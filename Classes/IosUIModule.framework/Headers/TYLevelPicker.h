@@ -10,6 +10,7 @@
 
 @class TYLevelPicker;
 @class IDDualMapViewController;
+@class IDLocation;
 
 @protocol TYLevelPickerDelegate <NSObject>
 
@@ -46,7 +47,7 @@
 - (void)setUpPickerViewForMapVC:(IDDualMapViewController*)mapVC;
 
 - (void)updateWithFloorId:(NSInteger)floorId force:(BOOL)force;
-- (void)updateViewForNavigationToFloor:(NSInteger)destinationFloorId fromFloor:(NSInteger)startFloorId;
+- (void)updateViewForNavigationTo:(IDLocation *)destination from:(IDLocation *)from;
 - (void)updateView;
 - (void)stopNavigation;
 
