@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SpreoUIPod"
-  s.version          = "1.2.3"
+  s.version          = "1.2.4"
   s.summary          = "Spreo UI Framework"
  
   s.description      = "Spreo UI Module Framework"
