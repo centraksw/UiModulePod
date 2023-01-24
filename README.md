@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 10 Novemeber, 2022
-### Framework VERSION: 1.2.3
+### DATE: 24 January, 2023
+### Framework VERSION: 1.3.0
 ### ================================ #
 
 # Installation
@@ -57,5 +57,5 @@ let vc = IosUIModuleKit.initWithApiKey("YOUR_SPREO_API_KEY")
 
 SpreoUIModule is available under the MIT license. See the LICENSE file for more info
 
-Copyright (C) 2022 Spreo LLC. All rights reserved.
+Copyright (C) 2023 Spreo LLC. All rights reserved.
 
