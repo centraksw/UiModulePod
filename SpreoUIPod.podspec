@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     'IosUIModule' => ['Classes/IosUIModule.bundle/**']
   }
 
-  s.dependency 'SpreoPod', '6.11.0'
+  s.dependency 'SpreoSdkPod', '6.11.0'
   s.requires_arc          = true
   
 end
