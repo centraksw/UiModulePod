@@ -10,47 +10,71 @@
 		</data>
 		<key>Headers/IosUIModuleKit.h</key>
 		<data>
-		kx2aE6xSnqCwX7uN27SQj9QSrn4=
+		Mt7TTkq/0ZsxNmXjlFdz70qHtgg=
 		</data>
-		<key>Headers/SpreoUIModuleSettings.h</key>
+		<key>Headers/UIModuleSettings.h</key>
 		<data>
-		MVygf53anX37LjSYClxPpVi3dL8=
+		NdwNluIiKnVojDlEBRpufAVMJ04=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		E2pXX7K1ro9r5e8nIJaPn0YkI2U=
+		yYXjodN6gTYmLOBn0+BvwyPSUTc=
 		</data>
 		<key>IosUIModule.bundle/Assets.car</key>
 		<data>
-		nxC4BahbDfA2YfU1AZJYszkpyVs=
+		JhuKqqY958rxaBKMhO2REasNFHc=
 		</data>
 		<key>IosUIModule.bundle/Info.plist</key>
 		<data>
-		hI3ztxrl8WGecHwtSDQ3/tiKab0=
+		pdliARFIUM3ul9sEnrQA/RUCKU8=
 		</data>
 		<key>IosUIModule.bundle/IosUIModule</key>
 		<data>
-		D0vxf8QAlEIwoVfoHm5Wq47nTaM=
+		MebvFEy+dEqyRnJs8/qHFSVEPLI=
 		</data>
 		<key>IosUIModule.bundle/LevelPickerCell.nib</key>
 		<data>
-		fujSMsO3ne9glyn1rqsTdcJQcxI=
+		Oerb2AkZbVuQ22oa7Afh6KJNg7c=
 		</data>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/BuildingViewController.nib</key>
+		<key>IosUIModule.bundle/Rubik-Medium.ttf</key>
 		<data>
-		2krMon+12ji19M1SwnX5tddWV+k=
+		yUOhIOM3O0QAQih4TP4J5uW3NNs=
+		</data>
+		<key>IosUIModule.bundle/Rubik-Regular.ttf</key>
+		<data>
+		aIwMvEPWPE9jy5lwGP6ImRWp3Hs=
+		</data>
+		<key>IosUIModule.bundle/Rubik-SemiBold.ttf</key>
+		<data>
+		oTAUqKABdYEDaDaiVGc8EuepjcI=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/1Eu-rt-4t2-view-IXx-ZD-ilU.nib</key>
+		<data>
+		JX4QZOZzxhOBWXi7/ITn+OWcB4c=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/1XV-Hl-wfb-view-UZ2-8E-XV6.nib</key>
+		<data>
+		IePCfClIJXJD19ZNK9B40aPOw10=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/7bB-a0-8Wh-view-XQa-5M-47f.nib</key>
+		<data>
+		U+MZAqwFMJ9el4hkLao8LPdeHk8=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/8Aa-AX-vfx-view-DQb-fP-z9p.nib</key>
+		<data>
+		+OhUb0S4NATyYwctXsnKvcVOndk=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/BuildingsVC.nib</key>
+		<data>
+		rSZBT7sLvv4f42OC8O3rbWEOl94=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/DataDownloadViewController.nib</key>
 		<data>
 		FyPGa/UekwDJO8GA1JewfOQHUD4=
 		</data>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/FilterViewController.nib</key>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/FilterVC.nib</key>
 		<data>
-		u8tvRK0uRSh/HIJgM2cwGCo4BIw=
-		</data>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/G0r-xh-wOM-view-iGJ-j8-ZKT.nib</key>
-		<data>
-		nz9vZdag/jQk7M9/SdYV0SEjb4Y=
+		tAoRzrlnNDlv/cTPpZZANI/ClV0=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/HomeViewController.nib</key>
 		<data>
@@ -58,51 +82,95 @@
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/Info.plist</key>
 		<data>
-		dyj7eZlOdS+yG2EUnhluR0jLmF4=
+		zJRgJvwr6EunzCx+eh6I03nRmMI=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/LocationAlertVC.nib</key>
+		<data>
+		ICJxOa/1UFs72AWnNznAXXsSa+w=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/MainAlertVC.nib</key>
+		<data>
+		fipRTSHyx5sAICtkjgR/1MybgyE=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/NavigationAlertVC.nib</key>
+		<data>
+		xWrUxeJYvAnAvZXvM9x9D6GUtoU=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/NavigationViewController.nib</key>
 		<data>
 		KTUR9uTU1kY3E3Uqakb/lzdd6nA=
 		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/OutOfCampusVC.nib</key>
+		<data>
+		PscKTAjtGuDdFw6Niitc75XNA/I=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/PJa-EP-Qr6-view-iMJ-Ge-VLu.nib</key>
+		<data>
+		mpSQQMmPkjRQkXkaRscbRdqmQH0=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/ParkingAlertVC.nib</key>
+		<data>
+		g1+oDVxIgTMnOOCYgV8PqRWK2Ow=
+		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/PoiDetailsViewController.nib</key>
 		<data>
 		mqKmFakUCDUP4vZ/0Ruj+0txLQQ=
 		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/StaffLoginVC.nib</key>
+		<data>
+		oj4DJoG6rR5uAnsdrdbW3wdPb3c=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/ThirdPartyVC.nib</key>
+		<data>
+		uDJQH/hfqMMYP6IxlDm0krF59as=
+		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/UINavigationController-JQz-T2-HSo.nib</key>
 		<data>
-		0l/s1vzlwxD0fMFHp3tMpo91GOE=
+		UDIiOzkFd6KD7JTHN37nBbWqXeM=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/X32-Zo-UQg-view-4HM-nl-cDo.nib</key>
+		<data>
+		XGV+bG2ydKU3UxRyS7Im1ZtjWjw=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/YJx-hf-3j7-view-3KJ-fb-rx2.nib</key>
 		<data>
-		dpFX+SjxPfqGchx/eOn7iBhiPag=
+		IkBeshVLtZQhtv5WjEAUnJmMUqU=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/b4O-aj-UWD-view-n3a-HD-ib0.nib</key>
 		<data>
-		cH4XY0q4Qy4Isz5OIYSZuEJE0jk=
+		wmced/ydDhNf+6PN9QSy3EGHa7Q=
 		</data>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/nrv-os-Ev7-view-xJO-FZ-Vdv.nib</key>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/jWl-EB-Ncj-view-I4N-rP-g0G.nib</key>
 		<data>
-		PXueN9ewfIw63NRKgSvWGV7Qic4=
+		sSTtDE6996x1gUm38DoxcgF++8c=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
+		<data>
+		rE23YgO5D+tuYL4zgKIOtOGmArA=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/oLJ-n1-XTb-view-XIu-1W-QnM.nib</key>
 		<data>
-		hto0YWd7csO6yj5NzG3Cy+JOSx8=
+		9wlzLFYkLr7gKU3PI4hk//stMZU=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/oQR-Cc-wRQ-view-K1u-3a-cbl.nib</key>
 		<data>
-		9ze98nJ8ZQEiBFPqGCO3XYwDrBE=
+		nAJPTcidjmhgIQaGmgLdXNNYxdw=
+		</data>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/omB-K5-HDs-view-lpn-JH-WNz.nib</key>
+		<data>
+		8UlJqJVCPeG3fQrxf+3487wJhPA=
 		</data>
 		<key>IosUIModule.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		GGtxmLY3dbg6znhCrqdZfWXtFjI=
+		EJrYAwikgb1W8ngZsYEuIzztU8E=
 		</data>
 		<key>IosUIModule.bundle/en_localization.json</key>
 		<data>
-		pZ5w3dJi5hfwmU/LgkiD/MX+c14=
+		hAH5y51ob7PVknm5DtdvUT28u1U=
 		</data>
 		<key>IosUIModule.bundle/es_localization.json</key>
 		<data>
-		Xv/rI475c9/GBMFINkfkZb7FNBU=
+		zybKXLFZFnNcjgmjNI2VYi37JP0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -126,77 +194,154 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kx2aE6xSnqCwX7uN27SQj9QSrn4=
+			Mt7TTkq/0ZsxNmXjlFdz70qHtgg=
 			</data>
 			<key>hash2</key>
 			<data>
-			evOeZk0WVXkvsvpWS5L1w68mSi5YxYvcqnzlhaUuvHU=
+			9C9uPewWVCMZ9jRXegMzGFYdP/UGhwbH/2bzy3BUg2M=
 			</data>
 		</dict>
-		<key>Headers/SpreoUIModuleSettings.h</key>
+		<key>Headers/UIModuleSettings.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MVygf53anX37LjSYClxPpVi3dL8=
+			NdwNluIiKnVojDlEBRpufAVMJ04=
 			</data>
 			<key>hash2</key>
 			<data>
-			87hcZxegWH0gOmfUWoZclvDUddLQQQi6+wlTvgRKKow=
+			EQiZ2Z5CbQqD/0VkiA/4lE1tUqMkSWYNzUiVukh5aQE=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nxC4BahbDfA2YfU1AZJYszkpyVs=
+			JhuKqqY958rxaBKMhO2REasNFHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			FAhByPVUJQsNCffFkiNHuoQP0gh8mFtXbXRZxCJd2AI=
+			c6gshYYQsNEdDlH7dulQbWJHbwHqvuM1mL5Ix8hTk4U=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hI3ztxrl8WGecHwtSDQ3/tiKab0=
+			pdliARFIUM3ul9sEnrQA/RUCKU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DDILlYX8gHfc1rAFQinbcn+rFlFdzVfqzQLyx9LBqoM=
+			4Rrb1kYRxfKOqiXK5P6Ra3jSJ7BsFHFusHqTQv0Ya4E=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/IosUIModule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D0vxf8QAlEIwoVfoHm5Wq47nTaM=
+			MebvFEy+dEqyRnJs8/qHFSVEPLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			rsLRFrY4DDfkmr50TBHkFeNjnR4UNHayNfy+YBGFgnk=
+			vUOtp1s8huvULpWAhwmash29jCgX9cwzPGHPGok0kNw=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/LevelPickerCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fujSMsO3ne9glyn1rqsTdcJQcxI=
+			Oerb2AkZbVuQ22oa7Afh6KJNg7c=
 			</data>
 			<key>hash2</key>
 			<data>
-			fV6nBdV4sISp4OJS/TiYB1epDNOW2qazm8a/ywvp91Y=
+			QgOZwNMZxI5HWV0HWzXuWv1GKs86Nli4Pp1VNRX/wPg=
 			</data>
 		</dict>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/BuildingViewController.nib</key>
+		<key>IosUIModule.bundle/Rubik-Medium.ttf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2krMon+12ji19M1SwnX5tddWV+k=
+			yUOhIOM3O0QAQih4TP4J5uW3NNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q9ditQE/OIJ/h6+CboUBDPydzqEBIKsYAM/K2nIUWDI=
+			7oPJvLwF5qWRbihDeGk59DBbYobx2qqrh0sdBvs/c7Y=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/Rubik-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aIwMvEPWPE9jy5lwGP6ImRWp3Hs=
+			</data>
+			<key>hash2</key>
+			<data>
+			DJPvJhPSIHMHqOkc62cZ4MbjE8EOWIYL2soCqEm3K5c=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/Rubik-SemiBold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oTAUqKABdYEDaDaiVGc8EuepjcI=
+			</data>
+			<key>hash2</key>
+			<data>
+			NPEfVJqCX16/Y3o8nvIm/zPZey+UpQXciY2vtkN2rxM=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/1Eu-rt-4t2-view-IXx-ZD-ilU.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JX4QZOZzxhOBWXi7/ITn+OWcB4c=
+			</data>
+			<key>hash2</key>
+			<data>
+			07e8R6wcwNVCA/JETnLNXOzu7ZBrdiWF2lANBgVy21o=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/1XV-Hl-wfb-view-UZ2-8E-XV6.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IePCfClIJXJD19ZNK9B40aPOw10=
+			</data>
+			<key>hash2</key>
+			<data>
+			+egthlChhTF8rfpEdv1v2Vt+aV0zEZ1Wq9t1Z1ZNo6g=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/7bB-a0-8Wh-view-XQa-5M-47f.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U+MZAqwFMJ9el4hkLao8LPdeHk8=
+			</data>
+			<key>hash2</key>
+			<data>
+			djeejgKcsoIte+vrYaIXFV2B9fZbslgyDgeQxlu3i6k=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/8Aa-AX-vfx-view-DQb-fP-z9p.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+OhUb0S4NATyYwctXsnKvcVOndk=
+			</data>
+			<key>hash2</key>
+			<data>
+			nsYDO5vQHoAfpKas6q/h2a9jLxBqVopvR/jtXvq/1ec=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/BuildingsVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rSZBT7sLvv4f42OC8O3rbWEOl94=
+			</data>
+			<key>hash2</key>
+			<data>
+			GNcTDAab64Ya4pHiT4+8/IOD52H0sxvS4iYCXzM/O+A=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/DataDownloadViewController.nib</key>
@@ -210,26 +355,15 @@
 			Ve1yHguvoRIujsXZjV2H5IuS3ma9gJOUAjBX5+kOYzc=
 			</data>
 		</dict>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/FilterViewController.nib</key>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/FilterVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u8tvRK0uRSh/HIJgM2cwGCo4BIw=
+			tAoRzrlnNDlv/cTPpZZANI/ClV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			dJAa0xnlUGwxY+E/7xGtu7C+CiA+WTTRw1z2adYxRRk=
-			</data>
-		</dict>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/G0r-xh-wOM-view-iGJ-j8-ZKT.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nz9vZdag/jQk7M9/SdYV0SEjb4Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			IlmEan40fa+BM2LcDu84B3JV9hR59imVhharXKLVuWA=
+			6Rg9wE+mTgdjLmtw6XseVpzxbEn+amaB8wjy5m/AucU=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/HomeViewController.nib</key>
@@ -247,11 +381,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dyj7eZlOdS+yG2EUnhluR0jLmF4=
+			zJRgJvwr6EunzCx+eh6I03nRmMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			x4tyTPXYLNwzTZTnzOP904Wgg+LWLC3Pco2Fl3f/Huk=
+			lO6K3MCmI8/2kBGbxc9bRLank27cHYO1tr/2/CAm1sE=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/LocationAlertVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ICJxOa/1UFs72AWnNznAXXsSa+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			QJkZwtt25MKehfvINlVEPXPqzTCEq3ZXEHV+AdaCpQg=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/MainAlertVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fipRTSHyx5sAICtkjgR/1MybgyE=
+			</data>
+			<key>hash2</key>
+			<data>
+			sw/dBN5JDQtr2tX53jQvUU5CYNsW5DPVqtUJPquu3cs=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/NavigationAlertVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xWrUxeJYvAnAvZXvM9x9D6GUtoU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wx4FJpUM55dW62Dv6kAsMu2flENRSK2w3eCZPAjyq1s=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/NavigationViewController.nib</key>
@@ -265,6 +432,39 @@
 			nteaIEbsZO3RHBXrw4V3oUBKZQBrL1rE1sXolM1umeY=
 			</data>
 		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/OutOfCampusVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PscKTAjtGuDdFw6Niitc75XNA/I=
+			</data>
+			<key>hash2</key>
+			<data>
+			PRIc6hUcqlbijH3fsVpyfa/rjbGvyhlzfJPiCD2Wtfk=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/PJa-EP-Qr6-view-iMJ-Ge-VLu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mpSQQMmPkjRQkXkaRscbRdqmQH0=
+			</data>
+			<key>hash2</key>
+			<data>
+			W9QDVPXZNrRjwDPltpFpi3Db2uzxijQV39SINopsoC8=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/ParkingAlertVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g1+oDVxIgTMnOOCYgV8PqRWK2Ow=
+			</data>
+			<key>hash2</key>
+			<data>
+			sV1vcHOjTN92ynEGRgGuKvad/3nIdudzfRpVgoyGf2I=
+			</data>
+		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/PoiDetailsViewController.nib</key>
 		<dict>
 			<key>hash</key>
@@ -276,103 +476,158 @@
 			g0iIChkSpPt9+CfcAJjgP4yIiHN5J2ueK6gQh90Xw7Y=
 			</data>
 		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/StaffLoginVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oj4DJoG6rR5uAnsdrdbW3wdPb3c=
+			</data>
+			<key>hash2</key>
+			<data>
+			aNNf7Z3EYE7uVNZypSQ5SrZlZQQcQQKTThy8fEKQR6M=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/ThirdPartyVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uDJQH/hfqMMYP6IxlDm0krF59as=
+			</data>
+			<key>hash2</key>
+			<data>
+			fmO56XXRSFxLH7tnmsmYLTW+ICUKD7ZMGtXKvt/m8fQ=
+			</data>
+		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/UINavigationController-JQz-T2-HSo.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0l/s1vzlwxD0fMFHp3tMpo91GOE=
+			UDIiOzkFd6KD7JTHN37nBbWqXeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ed17FWE7J0btkjBgicg8ptkC5U6TNcKwwdFqTJtxl10=
+			bATIdl+2+dSgYcjWvr5J03rDbBFSjmbtyhsZnxSLm4A=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/X32-Zo-UQg-view-4HM-nl-cDo.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XGV+bG2ydKU3UxRyS7Im1ZtjWjw=
+			</data>
+			<key>hash2</key>
+			<data>
+			YIK4/YKhYv0uEJUJel24HyXa6McpzDvXz3ypyiHX4LM=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/YJx-hf-3j7-view-3KJ-fb-rx2.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dpFX+SjxPfqGchx/eOn7iBhiPag=
+			IkBeshVLtZQhtv5WjEAUnJmMUqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CmLzNz3PfC1g+lTLTZ20UA/NUZT8dbFSbWC/MjMBf5I=
+			JK0AYK5Pow67zNaGqaQnpgUJgX08MkOP7ReeSv5Qx6A=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/b4O-aj-UWD-view-n3a-HD-ib0.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cH4XY0q4Qy4Isz5OIYSZuEJE0jk=
+			wmced/ydDhNf+6PN9QSy3EGHa7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			z2x4rQ+PMLiHfNxCCtKSF1JOCVkjgXfli6+izyTCfm8=
+			fus15ATKf9/hHWvAIMGaa9tEtRsCIk8RRZvYDV8ijkM=
 			</data>
 		</dict>
-		<key>IosUIModule.bundle/UIModuleMain.storyboardc/nrv-os-Ev7-view-xJO-FZ-Vdv.nib</key>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/jWl-EB-Ncj-view-I4N-rP-g0G.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PXueN9ewfIw63NRKgSvWGV7Qic4=
+			sSTtDE6996x1gUm38DoxcgF++8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			/xSpo/AXGQI3Rn8OmU/lMZO84PmP4Av3rsQ/7JTbqe0=
+			HvGKibhPNZenb0O3UZ4x8bigk1mBoaHxT0SDdN5uS1Q=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rE23YgO5D+tuYL4zgKIOtOGmArA=
+			</data>
+			<key>hash2</key>
+			<data>
+			RUHOFTL/OsvIsjatZoWePMWetdimEAnbHsoydz7GmPM=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/oLJ-n1-XTb-view-XIu-1W-QnM.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hto0YWd7csO6yj5NzG3Cy+JOSx8=
+			9wlzLFYkLr7gKU3PI4hk//stMZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			P6CVOymND02Ex6yela6kxAi+FUBncOJDWP6W/Uvvb7k=
+			MNlcxGMWAHeoh6Ik67StEXeLuAq4MErvMeXrV/JC+X0=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/oQR-Cc-wRQ-view-K1u-3a-cbl.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9ze98nJ8ZQEiBFPqGCO3XYwDrBE=
+			nAJPTcidjmhgIQaGmgLdXNNYxdw=
 			</data>
 			<key>hash2</key>
 			<data>
-			pbX1TnVNOhtNKkwHU7+53mnnYKF12YPcx5G1qOMCx1E=
+			mrt1B7ghHmj5iydyc+S4lySKLWLFHxeVgPwP+QFtc9k=
+			</data>
+		</dict>
+		<key>IosUIModule.bundle/UIModuleMain.storyboardc/omB-K5-HDs-view-lpn-JH-WNz.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8UlJqJVCPeG3fQrxf+3487wJhPA=
+			</data>
+			<key>hash2</key>
+			<data>
+			4BiU0UaxxS0fFodZ9zvQ+RPMZqEPxncvEBwNuuz4yEE=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GGtxmLY3dbg6znhCrqdZfWXtFjI=
+			EJrYAwikgb1W8ngZsYEuIzztU8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			RU/o0J4W59z2jItfWJMAcwWOYYgH4GEo8vRtoO8OoOU=
+			zP5kmbsgIhZiyY2cjKxvNux++1UQvjKUVwx70OCXwjY=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/en_localization.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pZ5w3dJi5hfwmU/LgkiD/MX+c14=
+			hAH5y51ob7PVknm5DtdvUT28u1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			FbGLXP5aNhpAx34GK7F6GXH4cXP4zdRKhQwk5d2WAcM=
+			8UVEB7i6nL4OgpZeMjGR+hMg4rG321XbPnysIaocxGo=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/es_localization.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xv/rI475c9/GBMFINkfkZb7FNBU=
+			zybKXLFZFnNcjgmjNI2VYi37JP0=
 			</data>
 			<key>hash2</key>
 			<data>
-			5njtK4MB/T/cyTJb3Axp5iAjTKAG+HyRX+Dp6gwiu48=
+			77emleCEmvGXAqqa6xRc8s3EpBgOX8FpeQJ2His5y2I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

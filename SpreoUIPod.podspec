@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
   s.name             = "SpreoUIPod"
-  s.version          = "1.3.0"
+  s.version          = "1.4.0"
   s.summary          = "Spreo UI Framework"
  
   s.description      = "Spreo UI Module Framework"
  
-  s.homepage         = "https://github.com/SpreoLLC/UiModulePod"
+  s.homepage         = "https://github.com/centraksw/UiModulePod"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { "alozovoy" => "a.lozovoy@belitsoft.com" }
-  s.source           = { :git => "https://github.com/SpreoLLC/UiModulePod.git", :tag => s.version.to_s }
+  s.author           = { "alozovoy" => "alozovoy@centrak.com" }
+  s.source           = { :git => "https://github.com/centraksw/UiModulePod.git", :tag => s.version.to_s }
  
   s.platform     = :ios, '11.0'
   
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     'IosUIModule' => ['Classes/IosUIModule.bundle/**']
   }
 
-  s.dependency 'SpreoPod', '6.10.0'
+  s.dependency 'SpreoPod', '6.11.0'
   s.requires_arc          = true
   
 end

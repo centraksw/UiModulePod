@@ -1,7 +1,10 @@
 #### ================================
-### DATE: 24 January, 2023
-### Framework VERSION: 1.3.0
+### DATE: 28 June, 2023
+### Framework VERSION: 1.4.0
 ### ================================ #
+
+# Example
+To run the example project, clone the [Repo](https://github.com/centraksw/IOS_UImodule_release_directory), and run pod install from the SampleApp directory first.
 
 # Installation
 
@@ -12,6 +15,14 @@
 pod 'SpreoUIPod'
 ```
 
+## Swift Package Manager
+
+Find the SpreoUIModuleSPM by entered https://github.com/centraksw/UiModuleSPM package url. Use main branch for latest version.
+
+## Manual
+
+Drag the Framework or XCFramework folder into your project. 
+
 # Usage
 
 1. Import `IosUIModule`
@@ -19,22 +30,42 @@ pod 'SpreoUIPod'
 ```swift
 import IosUIModule
 ```
-
 2. Use Settings
 
-  2.1 The parameter can be changed to open search with specific category on module start. Doesn't work if showClosestPoiDetails = YES and specific category empty or incorrect .
+  2.1. The parameter can be changed to open search with a specific category on module start. Doesn't work if showClosestPoiDetails = YES and specific category empty or incorrect .
 ```swift
-      SpreoUIModuleSettings.sharedInstance().openSearchOnStart = true
-      SpreoUIModuleSettings.sharedInstance().specificCategory = "Entrance"
+     let settings = UIModuleSettings.default()
+     settings openSearchOnStart = true
+     settings.specificCategory = "Entrance"
 ```
-      
-  2.2 The parameter can be used  to present closest poi from specific category on start. Doesn't work if openSearchOnStart = YES and specific category empty or incorrect.
+  2.2 The parameter can be used  to present the closest poi from a specific category on start. Doesn't work if openSearchOnStart = YES and specific category empty or incorrect.
 ```swift
-    SpreoUIModuleSettings.sharedInstance().showClosestPoiDetails = true
-    SpreoUIModuleSettings.sharedInstance().specificCategory = "Entrance"
+    let settings = UIModuleSettings.default()
+    settings.showClosestPoiDetails = true
+    settings.specificCategory = "Entrance"
+```
+  2.3 The parameter can be used to start navigation to poi by source id on start. Doesn't work if  openSearchOnStart = YES or showClosestPoiDetails = YES
+```swift
+    let settings = UIModuleSettings.default()
+    settings.poiSourceId = "12345"
+```
+  2.4 The parameter can be used to start navigation to poi by id on start. Doesn't work if  openSearchOnStart = YES or showClosestPoiDetails = YES
+```swift
+    let settings = UIModuleSettings.default()
+    settings.poiId = "12345"
+```
+  2.5 The parameter can be catch notification when user open trirdparty navigation for poi.
+
+    let settings = UIModuleSettings.default()
+    settings.thirdPartyNavigationOpenedNotification = { some actions }
+
+  2.6 The block can be run if need open navigation to poi immediately. The first parameter can be poi id or poi source id, the second parameter bool flag is source type or not.
+```swift
+    let settings = UIModuleSettings.default()
+    settings.openNavigationBlock?(poiId, false)
 ```
 
-3. Get the viewcontroller
+3. Get the view controller
 
 ```swift
 let vc = IosUIModuleKit.initWithApiKey("YOUR_SPREO_API_KEY")
