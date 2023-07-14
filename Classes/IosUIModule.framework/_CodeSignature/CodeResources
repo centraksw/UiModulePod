@@ -30,7 +30,7 @@
 		</data>
 		<key>IosUIModule.bundle/IosUIModule</key>
 		<data>
-		MebvFEy+dEqyRnJs8/qHFSVEPLI=
+		do+j1BPM2ePGIx0zvelnWP5UA1Q=
 		</data>
 		<key>IosUIModule.bundle/LevelPickerCell.nib</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/jWl-EB-Ncj-view-I4N-rP-g0G.nib</key>
 		<data>
-		sSTtDE6996x1gUm38DoxcgF++8c=
+		EWuzwggEh9+TlG5bhqV/dtOKGvo=
 		</data>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
 		<data>
@@ -162,15 +162,15 @@
 		</data>
 		<key>IosUIModule.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		EJrYAwikgb1W8ngZsYEuIzztU8E=
+		rfK6qBxbAhb5r4NgUUBgou3BaHA=
 		</data>
 		<key>IosUIModule.bundle/en_localization.json</key>
 		<data>
-		hAH5y51ob7PVknm5DtdvUT28u1U=
+		Zf8CqKp15wFeYPlBGlg3l+iSKpQ=
 		</data>
 		<key>IosUIModule.bundle/es_localization.json</key>
 		<data>
-		zybKXLFZFnNcjgmjNI2VYi37JP0=
+		vfr5J8FlLTJ4eZJ6kTcEWMkLAL0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -238,11 +238,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MebvFEy+dEqyRnJs8/qHFSVEPLI=
+			do+j1BPM2ePGIx0zvelnWP5UA1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			vUOtp1s8huvULpWAhwmash29jCgX9cwzPGHPGok0kNw=
+			r0cWEHdJtXwxUbbcbFzKx8YR+CpeGMqJM+CmLFuSYY0=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/LevelPickerCell.nib</key>
@@ -546,11 +546,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sSTtDE6996x1gUm38DoxcgF++8c=
+			EWuzwggEh9+TlG5bhqV/dtOKGvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			HvGKibhPNZenb0O3UZ4x8bigk1mBoaHxT0SDdN5uS1Q=
+			JrglEwtB2nOtA2mAJjnlFP3Wt0zqZ+UuN3mVQ97AlH4=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/UIModuleMain.storyboardc/kJM-aE-thi-view-qRR-R4-fmc.nib</key>
@@ -601,33 +601,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EJrYAwikgb1W8ngZsYEuIzztU8E=
+			rfK6qBxbAhb5r4NgUUBgou3BaHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			zP5kmbsgIhZiyY2cjKxvNux++1UQvjKUVwx70OCXwjY=
+			RPXr5dAwGCo4EwAbVd5/5uHxsgg2nfHbTsEX0Fc0ToQ=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/en_localization.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hAH5y51ob7PVknm5DtdvUT28u1U=
+			Zf8CqKp15wFeYPlBGlg3l+iSKpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8UVEB7i6nL4OgpZeMjGR+hMg4rG321XbPnysIaocxGo=
+			UpODwUoG5k+BSCc3SfK4CxIikcm7rWVEi7PWS5EnTPA=
 			</data>
 		</dict>
 		<key>IosUIModule.bundle/es_localization.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zybKXLFZFnNcjgmjNI2VYi37JP0=
+			vfr5J8FlLTJ4eZJ6kTcEWMkLAL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			77emleCEmvGXAqqa6xRc8s3EpBgOX8FpeQJ2His5y2I=
+			7VhPZv59FWHgzqnVEwCmycJSIpThIxlYD3jhzTG9SqQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
