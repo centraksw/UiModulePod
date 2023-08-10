@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 14 Jule, 2023
-### Framework VERSION: 1.4.1
+### DATE: 10 August, 2023
+### Framework VERSION: 1.5.0
 ### ================================ #
 
 # Example
@@ -32,37 +32,57 @@ import IosUIModule
 ```
 2. Use Settings
 
-  2.1. The parameter can be changed to open search with a specific category on module start. Doesn't work if showClosestPoiDetails = YES and specific category empty or incorrect .
+  2.1. The parameter can be changed to open search with a specific category on module start. Doesn't work if showClosestPoiDetails = true and specific category empty or incorrect .
 ```swift
      let settings = UIModuleSettings.default()
      settings openSearchOnStart = true
      settings.specificCategory = "Entrance"
 ```
-  2.2 The parameter can be used  to present the closest poi from a specific category on start. Doesn't work if openSearchOnStart = YES and specific category empty or incorrect.
+  2.2 The parameter can be used  to present the closest poi from a specific category on start. Doesn't work if openSearchOnStart = true and specific category empty or incorrect.
 ```swift
     let settings = UIModuleSettings.default()
     settings.showClosestPoiDetails = true
     settings.specificCategory = "Entrance"
 ```
-  2.3 The parameter can be used to start navigation to poi by source id on start. Doesn't work if  openSearchOnStart = YES or showClosestPoiDetails = YES
+  2.3 The parameter can be used to start navigation to poi by source id on start. Doesn't work if  openSearchOnStart = true or showClosestPoiDetails = true
 ```swift
     let settings = UIModuleSettings.default()
+    settings.openNavigationOnStart = true
     settings.poiSourceId = "12345"
 ```
-  2.4 The parameter can be used to start navigation to poi by id on start. Doesn't work if  openSearchOnStart = YES or showClosestPoiDetails = YES
+  2.4 The parameter can be used to start navigation to poi by id on start. Doesn't work if  openSearchOnStart = true or showClosestPoiDetails = true
 ```swift
     let settings = UIModuleSettings.default()
+    settings.openNavigationOnStart = true
     settings.poiId = "12345"
 ```
-  2.5 The parameter can be catch notification when user open trirdparty navigation for poi.
+  2.5 The parameter can be used to open poi details by source id on start. Doesn't work if  openSearchOnStart = true or showClosestPoiDetails = true or openNavigationOnStart = true
+```swift
+    let settings = UIModuleSettings.default()
+    settings.openPoiDetailsOnStart = true
+    settings.poiSourceId = "12345"
+```
+  2.6 The parameter can be used to open poi details by id on start. Doesn't work if  openSearchOnStart = true or showClosestPoiDetails = true or openNavigationOnStart = true
+```swift
+    let settings = UIModuleSettings.default()
+    settings.openPoiDetailsOnStart = true
+    settings.poiId = "12345"
+
+```
+  2.7 The parameter can be catch notification when user open trirdparty navigation for poi.
 
     let settings = UIModuleSettings.default()
     settings.thirdPartyNavigationOpenedNotification = { some actions }
 
-  2.6 The block can be run if need open navigation to poi immediately. The first parameter can be poi id or poi source id, the second parameter bool flag is source type or not.
+  2.8 The block can be run if need open navigation to poi immediately. The first parameter can be poi id or poi source id, the second parameter bool flag is source type or not.
 ```swift
     let settings = UIModuleSettings.default()
     settings.openNavigationBlock?(poiId, false)
+```
+  2.9 The block can be run if need open poi details immediately. The first parameter can be poi id or poi source id, the second parameter bool flag is source type or not.
+```swift
+    let settings = UIModuleSettings.default()
+    settings.openPoiDetailsBlock?(poiId, false)
 ```
 
 3. Get the view controller
