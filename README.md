@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 10 August, 2023
-### Framework VERSION: 1.5.0
+### DATE: 16 August, 2023
+### Framework VERSION: 1.5.1
 ### ================================ #
 
 # Example
