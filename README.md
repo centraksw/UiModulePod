@@ -1,6 +1,6 @@
 #### ================================
-### DATE: 5 September, 2023
-### Framework VERSION: 1.6.0
+### DATE: 14 September, 2023
+### Framework VERSION: 1.6.1
 ### ================================ #
 
 # Example
@@ -21,7 +21,7 @@ Find the SpreoUIModuleSPM by entered https://github.com/centraksw/UiModuleSPM pa
 
 ## Manual
 
-Drag the Framework or XCFramework folder into your project. 
+Drag the Framework or XCFramework folder into your project. Find bundle bundle files in Framework or XCFramework folder and drag into your project.
 
 # Usage
 
