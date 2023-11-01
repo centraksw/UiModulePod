@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
  
   s.homepage         = "https://github.com/centraksw/UiModulePod"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { "alozovoy" => "a.lozovoy@belitsoft.com" }
+  s.author           = { "Sindhu Mariyappan" => "sindhum@centrak.com" }
   s.source           = { :git => "https://github.com/centraksw/UiModulePod.git", :tag => s.version.to_s }
  
   s.platform     = :ios, '11.0'
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     'IosUIModule' => ['Classes/IosUIModule.bundle/**']
   }
 
-  s.dependency 'SpreoSdkPod', '6.11.3'
+  s.dependency 'SpreoSdkPod', '6.11.5'
   s.requires_arc          = true
   
 end
